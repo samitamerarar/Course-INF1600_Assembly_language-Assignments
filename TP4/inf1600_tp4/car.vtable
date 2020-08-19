@@ -1,0 +1,12 @@
+Vtable for CCar
+CCircle::_ZTV4CCar: 9u entries
+8     CCar::VerifyCoherence
+12    CCar::PrintStatus
+16    CCar::UpdateStatusCpp
+20    CCar::UpdateStatusCppAsm
+24    CCar::AverageSpeedCpp
+28    CCar::AverageSpeedAsm
+32    CCar::TotalDistCpp
+36    CCar::TotalDistAsm
+40    CCar::EquivalentAccCpp
+44    CCar::EquivalentAccAsm
